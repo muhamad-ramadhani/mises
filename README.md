@@ -19,7 +19,7 @@ Source
 > https://www.mises.site/validator
 
 Social Media
-> [ Discord ](discord.gg/wQ3qkmBHKt) | [ Twitter ](https://twitter.com/Mises001) | [ Telegram ](t.me/Misesofficial)
+> [ Discord ](https://discord.gg/wQ3qkmBHKt) | [ Twitter ](https://twitter.com/Mises001) | [ Telegram ](t.me/Misesofficial)
 
 |  Komponen |  Persyaratan Minimum |
 | ------------ | ------------ |
