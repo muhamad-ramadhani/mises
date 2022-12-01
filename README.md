@@ -25,6 +25,8 @@ Social Media
 | ------------ | ------------ |
 | OS  | Ubuntu 16.04 ++ |
 
+**SEBELUM MULAI, DIINGETIN SEKALI LAGI KALAU INI MAINNET, SEDIAKAN MISES MAINNET UNTUK GARAPNYA**
+
 ## 1. Install sat set sat set
 
 ```
